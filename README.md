@@ -6,6 +6,9 @@ Neste curso é ensinado como contribuir com projetos de código aberto
 Link para o curso [Python Pro](https://www.python.pro.br)
 
 [![Build Status](https://app.travis-ci.com/JosemarBrito/Fenix.svg?branch=main)](https://app.travis-ci.com/JosemarBrito/Fenix)
+[![Updates](https://pyup.io/repos/github/JosemarBrito/Fenix/shield.svg)](https://pyup.io/repos/github/JosemarBrito/Fenix/)
+[![Python 3](https://pyup.io/repos/github/JosemarBrito/Fenix/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/Fenix/)
+
 
 Suportado versão 3 de python
 
