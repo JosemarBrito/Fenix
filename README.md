@@ -31,3 +31,4 @@ Topicos a serem abordados
 2. Virtualenv
 3. Pip
 4. Travis CI
+5. Pypi
