@@ -3,6 +3,14 @@ mccabe==0.6.1
 pycodestyle==2.8.0
 pyflakes==2.4.0
 
+# Dependencias do Pytest
+py==1.11.0
+attrs==19.2.0
+pytest==6.2.5
+iniconfig==1.1.1
+toml==0.10.2
+
+
 #Coverage
 coverage==6.2
 pytest-cov==3.0.0
