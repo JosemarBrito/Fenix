@@ -20,7 +20,7 @@ from libpythonpro.spam.modelos import Usuario
 )
 def test_qtd_de_spam(sessao, usuarios):
     for usuario in usuarios:
-        sessao. salvar(usuario)
+        sessao.salvar(usuario)
     enviador = Mock()
     enviador_de_spam = EnviadorDeSpam(sessao, enviador)
     enviador_de_spam.enviar_emails(

@@ -33,3 +33,7 @@ Topicos a serem abordados
 3. Pip
 4. Travis CI
 5. Pypi
+6. Codecov
+7. Pytest
+8. Mock
+9. Pytest-Mock
