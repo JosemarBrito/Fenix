@@ -6,7 +6,7 @@ pyflakes==2.4.0
 # Dependencias do Pytest
 py==1.11.0
 attrs==19.2.0
-pytest==6.2.5
+pytest==7.1.2
 iniconfig==1.1.1
 toml==0.10.2
 
